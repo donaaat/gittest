@@ -9,6 +9,8 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            dragonar.dragonar.kiir();
+
         }
     }
 }
