@@ -9,7 +9,7 @@ namespace skyland0629
     {
         public static void kiir()
         {
-            Console.WriteLine("skyland069");
+            Console.WriteLine("-/*-9+skyland069-/8+6-*/");
         }
     }
 }
