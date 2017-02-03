@@ -9,7 +9,7 @@ namespace DekanySzabolcs
     {
         public static void Kiir()
         {
-            Console.WriteLine("DekanySzabolcs");
+            Console.WriteLine("Kek-9master");
         }
     }
 }
