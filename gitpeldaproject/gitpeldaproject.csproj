@@ -57,6 +57,7 @@
     <Compile Include="AlexaTorok.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="putin.cs" />
     <Compile Include="rixi96.cs" />
     <Compile Include="streitsandor.cs" />
     <Compile Include="vataligergo.cs" />

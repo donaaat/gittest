@@ -11,13 +11,12 @@ namespace gitpeldaproject
         static void Main(string[] args)
         {
             vataligergo.vataligergo.kiir();
-
             AlexaTorok.AlexaTorok.kiir();
             dadi075.dadi075.kiír();
             markkoltai.markkoltai.kiir();
             k_attis.k_attis.Kiir();
-            rixi96.rixi96.Kiír();
-            donat.donat.kiír();
+            rixi96.rixi96.Kiir();
+            putin.putin.Kiir();
             esztersz.esztersz.Kiir();
             streitsandor.streitsandor.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
