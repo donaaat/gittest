@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Wengoden
-{  
-    public static class Wengoden
+namespace a_sajat_nevem
+{
+    public static class A_Te_Neved
     {
         public static void Kiir()
         {
-            Console.WriteLine("Wengoden");
+            Console.WriteLine("***a_sajat_nevem***");
+
+
         }
     }
 }
