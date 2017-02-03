@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace gitpeldaproject
+namespace brainpower
 {
-    class Program
+    class brainpower
     {
-        static void Main(string[] args)
+        public static void Kiir()
         {
-            brainpower.brainpower.Kiir();
+            Console.WriteLine("brainpower");
         }
     }
 }
