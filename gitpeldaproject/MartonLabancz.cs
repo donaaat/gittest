@@ -2,15 +2,16 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Diagnostics;
 
-namespace markkoltai
+namespace BrazilPepe
 {
-    public static class markkoltai
+    public static class BrazilPepe
     {
         public static void kiir()
         {
-            Console.WriteLine("Markkoltai");
+            Console.WriteLine("***BrazilPepe***");
+
         }
+
     }
 }
