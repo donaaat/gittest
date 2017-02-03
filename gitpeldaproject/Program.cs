@@ -9,7 +9,13 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            KristofKovacs1.KristofKovacs1.Kiír();
             kovacsmark0517.kovacsmark0517.kiír();
+
+            Console.ReadKey();
+        }
+    }
+}
         }
     }
 }
