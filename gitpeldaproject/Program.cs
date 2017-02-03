@@ -9,6 +9,9 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            susagabo.susagabo.kiir();
+
+            Console.ReadKey();
         }
     }
 }
