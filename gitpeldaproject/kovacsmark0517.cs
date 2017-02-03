@@ -9,7 +9,7 @@ namespace kovacsmark0517
     {
         public static void kiír()
         {
-            Console.WriteLine("kovacsmark0517");
+            Console.WriteLine("***kovacsmark0517***");
         }
     }
 }
