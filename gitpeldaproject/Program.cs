@@ -10,6 +10,9 @@ namespace gitpeldaproject
         static void Main(string[] args)
         {
             aaronb96.aaronb96.kiír();
+            KristofKovacs1.KristofKovacs1.Kiír();
+
+            Console.ReadKey();
         }
     }
 }
