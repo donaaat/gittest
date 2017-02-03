@@ -9,6 +9,9 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            k_attis.k_attis.Kiir();
+
+            Console.ReadKey();
         }
     }
 }
