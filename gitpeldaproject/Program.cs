@@ -13,6 +13,7 @@ namespace gitpeldaproject
             dadi075.dadi075.kiír();
             markkoltai.markkoltai.kiir();
             k_attis.k_attis.Kiir();
+            rixi96.rixi96.Kiír();
             esztersz.esztersz.Kiir();
             streitsandor.streitsandor.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
@@ -36,6 +37,8 @@ namespace gitpeldaproject
             susagabo.susagabo.kiir();
 
             Console.ReadKey();
+            skyland0629.skyland0629.kiir();
+            
         }
     }
 }
