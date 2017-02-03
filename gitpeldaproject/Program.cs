@@ -11,8 +11,9 @@ namespace gitpeldaproject
         {
             streitsandor.streitsandor.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
-
+            Wengoden.Wengoden.Kiir();
             Console.ReadKey();
+            
         }
     }
 }
