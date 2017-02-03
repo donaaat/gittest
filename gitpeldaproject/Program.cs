@@ -9,7 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            AlexaTorok.AlexaTorok.kiir();
+            AlexaTorok.AlexaTorok.kiir();áűúőóöüéí
         }
     }
 }
