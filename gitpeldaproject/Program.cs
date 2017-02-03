@@ -35,6 +35,8 @@ namespace gitpeldaproject
             susagabo.susagabo.kiir();
 
             Console.ReadKey();
+            skyland0629.skyland0629.kiir();
+            
         }
     }
 }
