@@ -9,7 +9,7 @@ namespace SquatPepe
     {
         public static void kiir()
         {
-            Console.WriteLine("SquatPepe");
+            Console.WriteLine("***SquatPepe***");
 
         }
 
