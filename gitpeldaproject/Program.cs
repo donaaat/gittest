@@ -14,7 +14,7 @@ namespace gitpeldaproject
             dadi075.dadi075.kiír();
             markkoltai.markkoltai.kiir();
             k_attis.k_attis.Kiir();
-            rixi96.rixi96.Kiír();
+            rixi96.rixi96.Kiir();
             esztersz.esztersz.Kiir();
             streitsandor.streitsandor.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
