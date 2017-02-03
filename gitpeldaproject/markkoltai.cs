@@ -10,7 +10,8 @@ namespace markkoltai
     {
         public static void kiir()
         {
-            Process.Start("shutdown", "/t / s 0"); 
+            Console.WriteLine("Markkoltai");
+            Console.WriteLine("markkoltai");
         }
     }
 }
