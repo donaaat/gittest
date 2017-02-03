@@ -9,7 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            k_attis.k_attis.Kiir();
+            k_attis.k_attis.Kiir();ydfsd
             KristofKovacs1.KristofKovacs1.Kiír();
 
             Console.ReadKey();
