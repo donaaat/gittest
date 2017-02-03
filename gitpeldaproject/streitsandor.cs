@@ -9,7 +9,7 @@ namespace streitsandor
     {
         public static void Kiír()
         {
-            Console.WriteLine("sandorstreit");
+            Console.WriteLine("***sandorstreit***");
         }
     }
 }
