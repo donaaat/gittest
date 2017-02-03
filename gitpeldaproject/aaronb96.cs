@@ -3,14 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace dadi075
+namespace aaronb96
 {
-    public static class dadi075
+    public static class aaronb96
     {
         public static void kiír()
         {
-            Console.WriteLine("*****CSICSKA VAGYOK*****");
-            Console.WriteLine("Buzi vagyok");
+
+            Console.WriteLine("***aaronb96***");
+          
         }
+
     }
 }
