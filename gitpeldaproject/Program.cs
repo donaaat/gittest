@@ -12,6 +12,9 @@ namespace gitpeldaproject
             DekanySzabolcs.DekanySzabolcs.Kiir();
 
             Console.ReadKey();
+            KristofKovacs1.KristofKovacs1.Kiír();
+
+            Console.ReadKey();
         }
     }
 }
