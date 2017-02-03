@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Diagnostics;
 
-namespace markkoltai
+namespace kovacsmate97
 {
-    public static class markkoltai
+    public static class kovacsmate97
     {
         public static void kiir()
         {
-            Console.WriteLine("Markkoltai");
+            Console.WriteLine("****kovacsmate97");
         }
+
     }
 }
