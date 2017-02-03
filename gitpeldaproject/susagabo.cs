@@ -9,7 +9,7 @@ namespace susagabo
     {
         public static void kiir()
         {
-            Console.WriteLine("susagabo");
+            Console.WriteLine("123+susagabo+321");
         }
     }
 }
