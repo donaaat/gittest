@@ -15,12 +15,9 @@ namespace gitpeldaproject
             k_attis.k_attis.Kiir();
             streitsandor.streitsandor.Kiír();
             DekanySzabolcs.DekanySzabolcs.Kiir();
-
-            Console.ReadKey();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();
-
-            
+            Console.ReadKey();            
         }
     }
 }
