@@ -10,6 +10,7 @@ namespace gitpeldaproject
         static void Main(string[] args)
         {
             markkoltai.markkoltai.kiir();
+            KristofKovacs1.KristofKovacs1.Kiír();
         }
     }
 }
