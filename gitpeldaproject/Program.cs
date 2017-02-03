@@ -10,6 +10,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            AlexaTorok.AlexaTorok.kiir();
             dadi075.dadi075.kiír();
             markkoltai.markkoltai.kiir();
             k_attis.k_attis.Kiir();
@@ -21,8 +22,6 @@ namespace gitpeldaproject
             KristofKovacs1.KristofKovacs1.Kiír();        
             GombasBence.GombasBence.Kiir();
             DekanySzabolcs.DekanySzabolcs.Kiir();
-
-            Console.ReadKey();
             a_sajat_nevem.A_Te_Neved.Kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();          
@@ -35,10 +34,8 @@ namespace gitpeldaproject
             vataligergo.vataligergo.kiir();
             Wengoden.Wengoden.Kiir();       
             susagabo.susagabo.kiir();
-
-            Console.ReadKey();
             skyland0629.skyland0629.kiir();
-            
+            Console.ReadKey();
         }
     }
 }
