@@ -15,8 +15,7 @@ namespace gitpeldaproject
             GombasBence.GombasBence.Kiir();
             DekanySzabolcs.DekanySzabolcs.Kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
-            vataligergo.vataligergo.kiir();
-            Console.ReadKey();            
+            vataligergo.vataligergo.kiir();          
             KristofKovacs1.KristofKovacs1.Kiír();
             BrazilPepe.BrazilPepe.kiir();
             kovacsmark0517.kovacsmark0517.kiír();
