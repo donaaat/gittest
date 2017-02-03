@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace gitpeldaproject
+namespace esztersz
 {
-    class Program
+    public static class esztersz
     {
-        static void Main(string[] args)
+        public static void Kiir()
         {
-            esztersz.esztersz.Kiir();
+            Console.WriteLine("eszter");
 
         }
     }
