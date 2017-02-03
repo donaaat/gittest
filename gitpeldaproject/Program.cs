@@ -9,6 +9,9 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            DekanySzabolcs.DekanySzabolcs.Kiir();
+
+            Console.ReadKey();
         }
     }
 }
