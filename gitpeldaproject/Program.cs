@@ -9,9 +9,8 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            KristofKovacs1.KristofKovacs1.Kiír();
-
-            Console.ReadKey();
+            dragonar.dragonar.Kiír();
+         
         }
     }
 }
