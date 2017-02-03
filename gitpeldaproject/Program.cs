@@ -9,7 +9,9 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            SquatPepe.SquatPepe.kiir();
+            BrazilPepe.BrazilPepe.kiir();
+            KristofKovacs1.KristofKovacs1.Kiír();
+
 
         }
     }
