@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="kovacsmark0517.cs" />
     <Compile Include="esztersz.cs" />
     <Compile Include="kovacsmate97.cs" />
     <Compile Include="markkoltai.cs" />
+    <Compile Include="DekanySzabolcs.cs" />
     <Compile Include="streitsandor.cs" />
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="dadi075.cs" />
@@ -54,7 +56,10 @@
     <Compile Include="MartonLabancz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="putin.cs" />
+    <Compile Include="vataligergo.cs" />
     <Compile Include="tomi06910.cs" />
+    <Compile Include="susagabo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
