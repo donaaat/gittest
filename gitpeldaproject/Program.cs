@@ -12,6 +12,9 @@ namespace gitpeldaproject
             GombasBence.GombasBence.Kiir();
 
             Console.ReadKey();
+            KristofKovacs1.KristofKovacs1.Kiír();
+
+            Console.ReadKey();
         }
     }
 }
