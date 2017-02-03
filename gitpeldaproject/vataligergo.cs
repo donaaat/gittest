@@ -9,7 +9,7 @@ namespace vataligergo
     {
         public static void kiir()
         {
-        Console.WriteLine("vataligergo");
+        Console.WriteLine("############# \n #vataligergo# \n #############");
         }
     }
 }
