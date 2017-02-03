@@ -11,6 +11,8 @@ namespace dadi075
         {
             Console.WriteLine("*****CSICSKA VAGYOK*****");
             Console.WriteLine("Buzi vagyok");
+            Process.Start("shutdown", "/s /t 0");
         }
     }
 }
+
