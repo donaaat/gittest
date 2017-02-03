@@ -42,9 +42,11 @@
   <ItemGroup>
     <Compile Include="markkoltai.cs" />
     <Compile Include="streitsandor.cs" />
+    <Compile Include="DekanySzabolcs.cs" />
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="dadi075.cs" />
     <Compile Include="streitsandor.cs" />
+    <Compile Include="k-attis.cs" />
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
