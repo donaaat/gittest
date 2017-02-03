@@ -47,9 +47,11 @@
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="dadi075.cs" />
     <Compile Include="BartGergely.cs" />
+    <Compile Include="aaronb96.cs" />
     <Compile Include="streitsandor.cs" />
     <Compile Include="k-attis.cs" />
     <Compile Include="KristofKovacs1.cs" />
+    <Compile Include="MartonLabancz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="putin.cs" />
