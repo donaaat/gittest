@@ -9,6 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            kovacsmark0517.kovacsmark0517.kiír();
         }
     }
 }
