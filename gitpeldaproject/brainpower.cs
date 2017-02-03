@@ -9,7 +9,7 @@ namespace brainpower
     {
         public static void Kiir()
         {
-            Console.WriteLine("brainpower");
+            Console.WriteLine("╰( ͡°ᴥ ͡° ʋ)╯╰( ͡°ᴥ ͡° ʋ)╯");
         }
     }
 }
