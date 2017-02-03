@@ -9,7 +9,7 @@ namespace k_attis
     {
         public static void Kiir()
         {
-            Console.WriteLine("***k_attis***");
+            Console.WriteLine("***k_attis****");
         }
     }
 }
