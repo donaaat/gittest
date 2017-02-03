@@ -9,6 +9,9 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            tomi06910.tomi06910.Kiir();
+
+            Console.ReadKey();
         }
     }
 }
