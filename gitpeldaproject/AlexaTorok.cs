@@ -9,7 +9,7 @@ namespace AlexaTorok
     {
         public static void kiir()
         {
-            Console.WriteLine("AlexaTorok");
+            Console.WriteLine("AlexaTorok<33");
         }
 
     }
