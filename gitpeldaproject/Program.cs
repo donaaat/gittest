@@ -14,6 +14,13 @@ namespace gitpeldaproject
             KristofKovacs1.KristofKovacs1.Kiír();
 
             Console.ReadKey();
+            KristofKovacs1.KristofKovacs1.Kiír();
+            vataligergo.vataligergo.kiir();
+
+            
+            Wengoden.Wengoden.Kiir();
+            Console.ReadKey();
+            
         }
     }
 }
