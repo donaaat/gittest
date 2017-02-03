@@ -10,7 +10,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            vataligergo.vataligergo.kiir();
+            vataligergo.vataligergo.kiir(); 
             AlexaTorok.AlexaTorok.kiir();
             dadi075.dadi075.kiír();
             markkoltai.markkoltai.kiir();
