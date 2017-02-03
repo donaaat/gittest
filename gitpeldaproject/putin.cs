@@ -9,7 +9,7 @@ namespace putin
     {
         public static void Kiir()
         {
-            Console.WriteLine("Password:Mz/xMz/x");
+            Console.WriteLine("♫♫♫Password:Mz/xMz/x♫♫♫");
         }
     }
 }
