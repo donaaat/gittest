@@ -9,7 +9,7 @@ namespace esztersz
     {
         public static void Kiir()
         {
-            Console.WriteLine("eszter");
+            Console.WriteLine("**eszter**");
 
         }
     }
