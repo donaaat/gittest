@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SquatPepe
+namespace BrazilPepe
 {
-    public static class SquatPepe
+    public static class BrazilPepe
     {
         public static void kiir()
         {
-            Console.WriteLine("***SquatPepe***");
+            Console.WriteLine("***BrazilPepe***");
 
         }
 

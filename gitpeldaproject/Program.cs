@@ -10,8 +10,6 @@ namespace gitpeldaproject
         static void Main(string[] args)
         {
             BrazilPepe.BrazilPepe.kiir();
-            KristofKovacs1.KristofKovacs1.Kiír();
-
 
         }
     }
