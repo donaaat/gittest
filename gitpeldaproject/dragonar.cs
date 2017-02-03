@@ -9,7 +9,7 @@ namespace dragonar
     {
         public static void kiir()
         {
-            Console.WriteLine("****dragonar******");
+            Console.WriteLine("*****dragonar******");
         }
 
     }
