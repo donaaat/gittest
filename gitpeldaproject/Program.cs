@@ -10,6 +10,8 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            vataligergo.vataligergo.kiir();
+            AlexaTorok.AlexaTorok.kiir(); 
             vataligergo.vataligergo.kiir(); 
             AlexaTorok.AlexaTorok.kiir();
             dadi075.dadi075.kiír();
@@ -38,6 +40,7 @@ namespace gitpeldaproject
             susagabo.susagabo.kiir();
             skyland0629.skyland0629.kiir();
             Console.ReadKey();
+
         }
     }
 }
