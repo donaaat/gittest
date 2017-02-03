@@ -15,15 +15,10 @@ namespace gitpeldaproject
             k_attis.k_attis.Kiir();
             streitsandor.streitsandor.Kiír();
             DekanySzabolcs.DekanySzabolcs.Kiir();
-
-            
+            dragonar.dragonar.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();
-            Console.ReadKey();
-
-
-            dragonar.dragonar.Kiír();
-         
+            Console.ReadKey();         
         }
     }
 }
