@@ -9,7 +9,7 @@ namespace a_sajat_nevem
     {
         public static void Kiir()
         {
-            Console.WriteLine("a_sajat_nevem");
+            Console.WriteLine("***a_sajat_nevem***");
 
 
         }
