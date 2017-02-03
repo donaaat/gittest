@@ -46,6 +46,7 @@
     <Compile Include="DekanySzabolcs.cs" />
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="dadi075.cs" />
+    <Compile Include="BartGergely.cs" />
     <Compile Include="streitsandor.cs" />
     <Compile Include="k-attis.cs" />
     <Compile Include="KristofKovacs1.cs" />
@@ -53,6 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="putin.cs" />
     <Compile Include="vataligergo.cs" />
+    <Compile Include="tomi06910.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
