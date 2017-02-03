@@ -12,8 +12,8 @@ namespace gitpeldaproject
             dadi075.dadi075.kiír();
             streitsandor.streitsandor.Kiír();
             KristofKovacs1.KristofKovacs1.Kiír();
+            vataligergo.vataligergo.kiir();
 
-            Console.ReadKey();
         }
     }
 }
