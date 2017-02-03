@@ -9,7 +9,7 @@ namespace dadi075
     {
         public static void kiír()
         {
-            Console.WriteLine("*****dadi075*****");
+            Console.WriteLine("Buzi vagyok");
         }
     }
 }
