@@ -9,10 +9,13 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
-            brainpower.brainpower.Kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
+            vataligergo.vataligergo.kiir();
 
+            
+            Wengoden.Wengoden.Kiir();
             Console.ReadKey();
+            
         }
 
     }
