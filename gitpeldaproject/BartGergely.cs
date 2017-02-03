@@ -7,7 +7,7 @@ namespace Wengoden
 {  
     public static class Wengoden
     {
-        public static Kiir()
+        public static void Kiir()
         {
             Console.WriteLine("Wengoden");
         }
