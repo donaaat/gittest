@@ -9,7 +9,7 @@ namespace markkoltai
     {
         public static void kiir()
         {
-            Console.WriteLine("markkoltai");
+            Console.WriteLine("xXx69markkoltai69xXx");
         }
     }
 }
