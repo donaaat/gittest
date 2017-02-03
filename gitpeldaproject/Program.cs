@@ -19,16 +19,15 @@ namespace gitpeldaproject
             Console.ReadKey();            
             KristofKovacs1.KristofKovacs1.Kiír();
             BrazilPepe.BrazilPepe.kiir();
-
-            Console.ReadKey();
+            kovacsmark0517.kovacsmark0517.kiír();
             aaronb96.aaronb96.kiír();
+            dragonar.dragonar.kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();
+            Wengoden.Wengoden.Kiir();       
+            susagabo.susagabo.kiir();
 
-            
-            Wengoden.Wengoden.Kiir();
             Console.ReadKey();
-            
         }
     }
 }
