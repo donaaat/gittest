@@ -11,6 +11,7 @@ namespace gitpeldaproject
         {
             vataligergo.vataligergo.kiir();
 
+            Console.ReadKey();
         }
     }
 }
