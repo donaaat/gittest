@@ -57,6 +57,7 @@
     <Compile Include="putin.cs" />
     <Compile Include="vataligergo.cs" />
     <Compile Include="tomi06910.cs" />
+    <Compile Include="susagabo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

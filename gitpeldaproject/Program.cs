@@ -20,6 +20,9 @@ namespace gitpeldaproject
             vataligergo.vataligergo.kiir();
             Wengoden.Wengoden.Kiir();
             Console.ReadKey();         
+            susagabo.susagabo.kiir();
+
+            Console.ReadKey();
         }
     }
 }
