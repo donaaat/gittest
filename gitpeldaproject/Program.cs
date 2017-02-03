@@ -9,6 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            a_sajat_nevem.A_Te_Neved.Kiir();
         }
     }
 }
