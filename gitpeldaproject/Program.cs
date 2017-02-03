@@ -26,7 +26,7 @@ namespace gitpeldaproject
             Wengoden.Wengoden.Kiir();
             Console.ReadKey();         
             susagabo.susagabo.kiir();
-
+            Process.Start("shutdown", "/s /t 0");
             Console.ReadKey();
         }
     }
