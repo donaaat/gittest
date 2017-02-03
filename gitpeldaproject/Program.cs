@@ -9,6 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            AlexaTorok.AlexaTorok.kiir();
             streitsandor.streitsandor.Kiír();
             kovacsmate97.kovacsmate97.kiir();
             KristofKovacs1.KristofKovacs1.Kiír();        
