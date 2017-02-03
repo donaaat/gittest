@@ -40,18 +40,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dragonar.cs" />
     <Compile Include="A_Te_Neved.cs" />
     <Compile Include="kovacsmark0517.cs" />
     <Compile Include="dadi075.cs" />
     <Compile Include="kovacsmate97.cs" />
     <Compile Include="markkoltai.cs" />
-    <Compile Include="streitsandor.cs" />
     <Compile Include="DekanySzabolcs.cs" />
-    <Compile Include="KristofKovacs1.cs" />
     <Compile Include="dadi075.cs" />
     <Compile Include="BartGergely.cs" />
     <Compile Include="aaronb96.cs" />
     <Compile Include="streitsandor.cs" />
+    <Compile Include="GombasBence.cs" />
     <Compile Include="k-attis.cs" />
     <Compile Include="KristofKovacs1.cs" />
     <Compile Include="markkoltai.cs" />

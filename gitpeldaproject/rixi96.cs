@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Wengoden
-{  
-    public static class Wengoden
+namespace rixi96
+{
+    public static class rixi96
     {
         public static void Kiir()
         {
-            Console.WriteLine("Wengoden");
+            Console.WriteLine("****rixi96****");
         }
     }
 }
