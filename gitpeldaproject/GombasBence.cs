@@ -9,7 +9,7 @@ namespace GombasBence
     {
         public static void Kiir()
         {
-            Console.WriteLine("GombasBence");
+            Console.WriteLine("#Gomba$Bence");
         }
     }
 }
