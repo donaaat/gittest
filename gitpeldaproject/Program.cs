@@ -18,8 +18,7 @@ namespace gitpeldaproject
             dragonar.dragonar.kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();
-            Wengoden.Wengoden.Kiir();
-            Console.ReadKey();         
+            Wengoden.Wengoden.Kiir();       
             susagabo.susagabo.kiir();
 
             Console.ReadKey();
