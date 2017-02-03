@@ -9,6 +9,7 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            Wengoden.Wengoden.Kiir();
         }
     }
 }
