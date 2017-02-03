@@ -9,6 +9,8 @@ namespace gitpeldaproject
     {
         static void Main(string[] args)
         {
+            skyland0629.skyland0629.kiir();
+            
         }
     }
 }
