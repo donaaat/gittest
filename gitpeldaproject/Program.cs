@@ -11,16 +11,11 @@ namespace gitpeldaproject
         {
             streitsandor.streitsandor.Kiír();
             kovacsmate97.kovacsmate97.kiir();
-            KristofKovacs1.KristofKovacs1.Kiír();        
             DekanySzabolcs.DekanySzabolcs.Kiir();
-            KristofKovacs1.KristofKovacs1.Kiír();
-            vataligergo.vataligergo.kiir();         
-            KristofKovacs1.KristofKovacs1.Kiír();
             BrazilPepe.BrazilPepe.kiir();
-            KristofKovacs1.KristofKovacs1.Kiír();
             kovacsmark0517.kovacsmark0517.kiír();
             aaronb96.aaronb96.kiír();
-            dragonar.dragonar.Kiír();
+            dragonar.dragonar.kiir();
             KristofKovacs1.KristofKovacs1.Kiír();
             vataligergo.vataligergo.kiir();
             Wengoden.Wengoden.Kiir();
