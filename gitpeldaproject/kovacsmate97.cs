@@ -9,7 +9,7 @@ namespace kovacsmate97
     {
         public static void kiir()
         {
-            Console.WriteLine("kovacsmate97");
+            Console.WriteLine("****kovacsmate97");
         }
 
     }
